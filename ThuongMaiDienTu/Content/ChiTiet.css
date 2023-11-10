@@ -1,0 +1,94 @@
+﻿body {
+
+}
+.product-image {
+    max-width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+.chat-button-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    z-index: 2; /* Đảm bảo nút chat hiển thị trên nội dung */
+}
+
+.chat-button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+#chatbox-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    display: none;
+}
+
+#chatbox-header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    #chatbox-header button {
+        background: none;
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        font-size: 20px;
+        margin: 0 5px;
+    }
+
+#chatbox-messages {
+    padding: 10px;
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+#chatbox-input {
+    width: 80%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+#send-chat-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.btn-chat {
+    background: transparent; /* Đặt nền trong suốt */
+    color: yellow; /* Màu chữ màu vàng */
+    padding: 5px 10px; /* Kích thước và khoảng cách bên trong nút */
+    border: 2px solid yellow; /* Khung màu vàng */
+    border-radius: 5px; /* Độ cong viền */
+    font-weight: bold;
+    text-decoration: none; /* Loại bỏ gạch chân mặc định cho liên kết */
+    transition: background 0.3s, color 0.3s; /* Hiệu ứng khi trỏ chuột vào */
+}
+
+    .btn-chat:hover {
+        background: yellow; /* Màu nền khi rê chuột vào nút */
+        color: white; /* Màu chữ trắng khi rê chuột vào */
+    }
+

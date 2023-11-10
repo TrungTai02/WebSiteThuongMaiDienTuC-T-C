@@ -1,0 +1,139 @@
+﻿@model ThuongMaiDienTu.Models.EF.BaiDang
+
+@{
+    ViewBag.Title = "Đăng Tin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .custom-file-upload {
+        border: 1px solid #ccc;
+        display: inline-block;
+        padding: 6px 12px;
+        cursor: pointer;
+        background-color: #3498db;
+        color: #fff;
+    }
+
+        .custom-file-upload input[type="file"] {
+            display: none;
+        }
+
+    .no-file-selected {
+        display: none;
+        color: red;
+    }
+
+    .image-container {
+        width: 200px;
+        height: 200px;
+        border: 1px solid #ddd;
+        position: relative;
+        display: flex; /* Sử dụng display: flex; để căn giữa */
+        align-items: center; /* Căn giữa theo chiều dọc */
+        justify-content: center; /* Căn giữa theo chiều ngang */
+        overflow: hidden;
+        margin-left: 10px;
+    }
+
+        .image-container img {
+            max-width: 100%;
+            max-height: 100%;
+            display: block;
+            object-fit: contain; /* Để làm cho hình ảnh vừa vặn */
+        }
+
+    .hidden {
+        display: none;
+        max-width: 100%;
+        max-height: 100%;
+        display: block;
+        object-fit: contain;
+    }
+
+    .row {
+        display: flex;
+        justify-content: space-between; /* Căn đều các thành phần trong hàng */
+    }
+
+    .images {
+        text-align: center;
+    }
+</style>
+<h2>Đăng Tin Mới</h2>
+
+@using (Html.BeginForm("Create", "BaiDangs", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ChuDe, "Chủ đề", htmlAttributes: new { @class = "control-label" })
+        @Html.EditorFor(model => model.ChuDe, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.ChuDe, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NoiDung, "Nội Dung", htmlAttributes: new { @class = "control-label" })
+        @Html.EditorFor(model => model.NoiDung, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.NoiDung, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TrangThai, "Trạng Thái", htmlAttributes: new { @class = "control-label " })
+        @Html.EditorFor(model => model.TrangThai, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.TrangThai, "", new { @class = "text-danger" })
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.IDDanhMuc, "Danh Muc", htmlAttributes: new { @class = "control-label" })
+        @Html.DropDownList("IDDanhMuc", null, htmlAttributes: new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.IDDanhMuc, "", new { @class = "text-danger" })
+    </div>
+    <div class="row">
+        @for (int i = 0; i < 5; i++)
+        {
+            <div class="images">
+
+                <div id="imagePreviews_@i" class="image-container">
+                    <!-- Các hình ảnh được hiển thị sẽ được thêm vào đây -->
+
+                    <img id="previewImage_@i" class="hidden" />
+                </div>
+                <label class="custom-file-upload">
+                    <input type="file" class="fileInput" name="images[@i]" multiple accept="image/*" />
+                    Chọn ảnh
+                </label>
+                <span class="no-file-selected">Không tệp nào được chọn</span>
+            </div>
+        }
+    </div>
+
+    <input type="hidden" name="IDKiemDuyet" value="1" />
+    <button type="submit" class="btn btn-primary">Đăng Tin</button>
+}
+
+@section scripts {
+    <script>
+        document.querySelectorAll(".fileInput").forEach(function (input, index) {
+            input.addEventListener("change", function (e) {
+                var imagePreviews = document.getElementById("imagePreviews_" + index);
+                var previewImage = document.getElementById("previewImage_" + index);
+                var selectedImages = e.target.files;
+
+                // Đảm bảo rằng bạn hiển thị hình ảnh thích hợp cho từng thẻ
+
+
+                // Đoạn này dùng để hiển thị hình ảnh cho người dùng thấy
+                for (var i = 0; i < selectedImages.length; i++) {
+                    var image = document.createElement("img");
+                    image.src = URL.createObjectURL(selectedImages[i]);
+                    imagePreviews.appendChild(image);
+                }
+
+                // Lưu các hình ảnh vào cơ sở dữ liệu ở đây (sử dụng Ajax hoặc cách lưu dữ liệu khác)
+            });
+        });
+
+    </script>
+    
+}

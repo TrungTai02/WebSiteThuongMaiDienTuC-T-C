@@ -1,0 +1,56 @@
+﻿/* CSS cho phần thanh tìm kiếm */
+.search-bar {
+    text-align: center; /* Căn giữa nội dung trong thanh tìm kiếm */
+    margin: 10px 0; /* Khoảng cách trên và dưới thanh tìm kiếm */
+    margin-top: 10px; /* Điều chỉnh khoảng cách giữa thanh tìm kiếm và các liên kết */
+}
+
+.navbar-nav > li > a[href*="Contact"] {
+    margin-right: 10px; /* Điều chỉnh khoảng cách bên phải của liên kết "Contact" */
+}
+
+.search-bar input[type="text"] {
+    padding: 10px; /* Điều chỉnh kích thước và khoảng cách bên trong ô nhập liệu */
+    border: 1px solid #ccc; /* Viền xung quanh ô nhập liệu */
+    border-radius: 5px; /* Đường viền cong */
+}
+
+.search-bar input[type="submit"] {
+    padding: 10px 20px; /* Điều chỉnh kích thước và khoảng cách bên trong nút tìm kiếm */
+    background-color: #007bff; /* Màu nền nút tìm kiếm */
+    border: none; /* Loại bỏ viền */
+    color: #fff; /* Màu chữ */
+    border-radius: 5px; /* Đường viền cong */
+}
+    /* Khi di chuột qua nút tìm kiếm */
+    .search-bar input[type="submit"]:hover {
+        background-color: #0056b3; /* Màu nền khi di chuột qua */
+    }
+
+.nav.navbar-nav li a {
+    color: black; /* Đặt màu chữ thành đen */
+    /* Các thuộc tính CSS khác nếu cần */
+}
+
+    .nav.navbar-nav li a:hover {
+        color: turquoise; /* Đặt màu chữ khi di chuột vào thành màu đỏ */
+    }
+
+#myNavbar {
+    background-color: #778899; /* Đặt màu nền thành màu trắng */
+    /* Các thuộc tính CSS khác cho Navbar của bạn */
+}
+
+/* CSS trong tệp CSS hoặc trong cặp thẻ <style> trên trang HTML */
+
+.logo {
+    max-width: 50px; /* Đặt chiều rộng tối đa */
+    max-height: 50px; /* Đặt chiều cao tối đa */
+}
+.col-md-2 {
+    border: 1px solid black; /* Đặt viền với độ rộng 1px và màu đen */
+    background-color: black; /* Đặt màu nền của thẻ là màu đen */
+    color: white; /* Đặt màu chữ là trắng (hoặc màu chữ mà bạn muốn) */
+    padding: 10px; /* Khoảng cách giữa nội dung và viền của thẻ */
+}
+

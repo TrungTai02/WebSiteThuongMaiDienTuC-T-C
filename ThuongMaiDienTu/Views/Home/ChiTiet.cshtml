@@ -1,0 +1,93 @@
+﻿@model ThuongMaiDienTu.Models.EF.BaiDang
+@using ThuongMaiDienTu.Models.EF;
+@using ThuongMaiDienTu.DungChung;
+<link href="~/Content/ChiTiet.css" rel="stylesheet" />
+<style>
+    .btn-chat {
+        background: transparent; /* Đặt nền trong suốt */
+        color: yellow; /* Màu chữ màu vàng */
+        padding: 5px 10px; /* Kích thước và khoảng cách bên trong nút */
+        border: 2px solid yellow; /* Khung màu vàng */
+        border-radius: 5px; /* Độ cong viền */
+        font-weight: bold;
+        text-decoration: none; /* Loại bỏ gạch chân mặc định cho liên kết */
+        transition: background 0.3s, color 0.3s; /* Hiệu ứng khi trỏ chuột vào */
+    }
+
+        .btn-chat:hover {
+            background: yellow; /* Màu nền khi rê chuột vào nút */
+            color: white; /* Màu chữ trắng khi rê chuột vào */
+        }
+</style>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+   
+   document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("chatButton").addEventListener("click", function () {
+        console.log("Button clicked!");
+        // Gửi yêu cầu kiểm tra trạng thái đăng nhập
+        $.ajax({
+            type: "GET",
+            url: "@Url.Action("CheckLoginStatus", "Home")",
+            dataType: "json",
+            success: function (response) {
+                if (response.isLoggedIn) {
+                    // Nếu đã đăng nhập, thực hiện yêu cầu POST đến CreateChat()
+                    $.ajax({
+                        type: "POST",
+                        url: "/ChatBox/CreateChat",
+                        data: { nguoiDangBaiID: $("#nguoiDangBaiID").val() },
+                        dataType: "json",
+                        success: function (response) {
+                            if (response.success) {
+                                window.location.href = "/ChatBox/Chatbox";
+                                createChatSuccess(response.chatId);
+
+                            } else {
+                                console.log("Lỗi khi tạo cuộc trò chuyện: " + response.error);
+                            }
+                        },
+                        error: function (error) {
+                            console.log("Lỗi khi tạo cuộc trò chuyện: " + error);
+                        }
+                    });
+                } else {
+                    // Chưa đăng nhập, chuyển hướng đến trang đăng nhập.
+                    window.location.href = "/Login/Index";
+                }
+            },
+            error: function (error) {
+                console.log("Lỗi kiểm tra trạng thái đăng nhập: " + error);
+            }
+        });
+    });
+});
+
+
+</script>
+
+<div class="container row">
+    <div class="col-md-7">
+        <h1>@Model.ChuDe</h1><br />
+        @if (Model.HinhAnhBaiDangs != null && Model.HinhAnhBaiDangs.Count > 0)
+        {
+            <div>
+                @foreach (var image in Model.HinhAnhBaiDangs)
+                {
+                    <img src="~/Content/Images/@image.DuongDanHinhAnh" alt="@Model.ChuDe" class="product-image" />
+                }
+            </div>
+        }
+    </div>
+    <div class="col-md-5">
+        <br />
+        <br />
+        <p>Người đăng: @Model.User.HoVaTen <button id="chatButton" class="btn-chat"> Chat</button></></p>
+        <h3>@Model.ChuDe</h3>
+        <p>Mô tả: @Model.NoiDung</p>
+        <p>Trạng thái: @Model.TrangThai</p>
+        <p>Danh mục: @Model.DanhMuc.TenDanhMuc</p>
+        <input type="hidden" id="nguoiDangBaiID" value="@Model.User.UserID" />
+    </div>
+</div>

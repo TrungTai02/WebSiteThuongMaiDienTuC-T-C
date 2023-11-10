@@ -1,0 +1,58 @@
+﻿@model ThuongMaiDienTu.Models.LoginModels
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Đăng Nhập</title>
+    <link href="~/Content/Login.css" rel="stylesheet" />
+    <style>
+        .btn-register a {
+            text-decoration: none;
+            color: white;
+        }
+
+        .btn-return a {
+            text-decoration: none;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    @using (Html.BeginForm("Login", "Login", FormMethod.Post))
+    {
+       
+         var errorMessage = TempData["ErrorMessage"] as string;
+        
+        <div class="login-container">
+            <h2> Login </h2>
+             @if(!string.IsNullOrEmpty(errorMessage))
+              {
+                <div class="alert alert-danger">@errorMessage</div>
+              }
+            <form>
+                @Html.TextBoxFor(model => model.UserName, new { @class = "from-control", autofocus = "autofocus", placeholder = "Username" })
+                @Html.ValidationMessageFor(model => model.UserName)
+
+                @Html.PasswordFor(model => model.Password, new { @class = "from-control", placeholder = "Password" })
+                @Html.ValidationMessageFor(model => model.Password)
+
+                <button class="btn-return" type="submit">
+                    <a type="submit" href="/Home/Index"> Trang chủ </a>
+                </button>
+                <button type="submit"> Login </button>
+                <button class="btn-register" type="submit">
+                    <a href="~/Register/Create">Register</a>
+                </button>
+
+            </form>
+        </div>
+
+    }
+</body>
+</html>

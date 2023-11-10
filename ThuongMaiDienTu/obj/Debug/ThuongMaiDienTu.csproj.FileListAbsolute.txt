@@ -1,0 +1,1136 @@
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll.config
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.pdb
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe.config
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.rsp
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe.config
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.rsp
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.AppContext.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Collections.Immutable.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Console.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Globalization.Calendars.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Http.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Sockets.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.ValueTuple.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe.config
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.rsp
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe.config
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Web.Infrastructure.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\WebGrease.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.pdb
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.AssemblyReference.cache
+D:\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CoreCompileInputs.cache
+D:\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CopyComplete
+D:\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.pdb
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.dll
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.xml
+D:\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll.config
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.pdb
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\WebGrease.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CopyComplete
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.dll
+C:\Users\HP\Desktop\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.pdb
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll.config
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.pdb
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe.config
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.rsp
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe.config
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.rsp
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.AppContext.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Collections.Immutable.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Console.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Globalization.Calendars.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Http.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Sockets.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.ValueTuple.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe.config
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.rsp
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe.config
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Web.Infrastructure.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\WebGrease.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.pdb
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.AssemblyReference.cache
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CoreCompileInputs.cache
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CopyComplete
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.dll
+D:\Gt1\hash\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.pdb
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll.config
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.pdb
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe.config
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.rsp
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe.config
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.rsp
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.AppContext.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Collections.Immutable.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Console.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Globalization.Calendars.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Http.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Sockets.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.ValueTuple.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe.config
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.rsp
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe.config
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Web.Infrastructure.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\WebGrease.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.pdb
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.AssemblyReference.cache
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CoreCompileInputs.cache
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CopyComplete
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.dll
+D:\Gt1\ThuongMaiDienTu\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.pdb
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll.config
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.pdb
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe.config
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.rsp
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe.config
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.rsp
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.AppContext.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Console.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Globalization.Calendars.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Http.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Sockets.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.ValueTuple.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe.config
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.rsp
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\WebGrease.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.pdb
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CoreCompileInputs.cache
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CopyComplete
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.dll
+D:\DoAnTest\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.pdb
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CoreCompileInputs.cache
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.pdb
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll.config
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.pdb
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe.config
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.rsp
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe.config
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.rsp
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.AppContext.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Console.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Globalization.Calendars.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Http.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Sockets.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.ValueTuple.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe.config
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.rsp
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\WebGrease.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.pdb
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CopyComplete
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\AutoMapper.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Castle.Core.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Fluent.Infrastructure.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Google.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Owin.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\WebActivatorEx.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\AutoMapper.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Castle.Core.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Google.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.AssemblyReference.cache
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Win32.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\netstandard.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.AppContext.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.Concurrent.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.NonGeneric.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.Specialized.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.EventBasedAsync.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.TypeConverter.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Console.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Data.Common.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Contracts.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Debug.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.FileVersionInfo.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Process.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.StackTrace.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Tools.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.TraceSource.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Tracing.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Drawing.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Dynamic.Runtime.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Globalization.Calendars.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Globalization.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Globalization.Extensions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.Compression.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.Compression.ZipFile.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.FileSystem.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.FileSystem.DriveInfo.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.FileSystem.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.FileSystem.Watcher.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.IsolatedStorage.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.MemoryMappedFiles.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.Pipes.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.UnmanagedMemoryStream.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Linq.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Linq.Expressions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Linq.Parallel.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Linq.Queryable.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Http.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.NameResolution.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.NetworkInformation.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Ping.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Requests.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Security.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Sockets.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.WebHeaderCollection.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.WebSockets.Client.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.WebSockets.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ObjectModel.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.Extensions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Resources.Reader.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Resources.ResourceManager.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Resources.Writer.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Extensions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Handles.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.InteropServices.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Numerics.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Serialization.Formatters.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Serialization.Json.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Serialization.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Serialization.Xml.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Claims.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Algorithms.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Csp.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Encoding.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.X509Certificates.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Principal.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.SecureString.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encoding.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encoding.Extensions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.RegularExpressions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Overlapped.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Tasks.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Tasks.Parallel.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Thread.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.ThreadPool.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Timer.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ValueTuple.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.ReaderWriter.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XDocument.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XmlDocument.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XmlSerializer.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XPath.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XPath.XDocument.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authorization.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Cors.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Localization.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Routing.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyModel.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Localization.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.ObjectPool.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Options.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Primitives.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.WebEncoders.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Net.Http.Headers.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Win32.Registry.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.Bson.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Buffers.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.Immutable.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.Annotations.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Memory.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Numerics.Vectors.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.Metadata.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.AccessControl.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Xml.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Permissions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Principal.Windows.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encoding.CodePages.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encodings.Web.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Tasks.Extensions.dll
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authorization.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Cors.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Localization.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Routing.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.pdb
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.CSharp.pdb
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Localization.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.ObjectPool.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Options.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Primitives.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.WebEncoders.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Net.Http.Headers.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.Bson.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Buffers.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.Immutable.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.DiagnosticSource.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Memory.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Numerics.Vectors.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.Metadata.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encodings.Web.xml
+D:\DoAnTest\New folder\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Tasks.Extensions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.AssemblyReference.cache
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CoreCompileInputs.cache
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.pdb
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll.config
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\ThuongMaiDienTu.pdb
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.exe.config
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csc.rsp
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.exe.config
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\csi.rsp
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.AppContext.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Console.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Globalization.Calendars.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Http.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Net.Sockets.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.ValueTuple.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.exe.config
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\vbc.rsp
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Win32.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\netstandard.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.AppContext.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.Concurrent.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.NonGeneric.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.Specialized.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.EventBasedAsync.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.TypeConverter.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Console.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Data.Common.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Contracts.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Debug.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.FileVersionInfo.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Process.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.StackTrace.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Tools.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.TraceSource.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.Tracing.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Drawing.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Dynamic.Runtime.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Globalization.Calendars.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Globalization.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Globalization.Extensions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.Compression.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.Compression.ZipFile.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.FileSystem.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.FileSystem.DriveInfo.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.FileSystem.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.FileSystem.Watcher.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.IsolatedStorage.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.MemoryMappedFiles.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.Pipes.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.IO.UnmanagedMemoryStream.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Linq.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Linq.Expressions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Linq.Parallel.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Linq.Queryable.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Http.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.NameResolution.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.NetworkInformation.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Ping.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Requests.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Security.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.Sockets.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.WebHeaderCollection.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.WebSockets.Client.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Net.WebSockets.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ObjectModel.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.Extensions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Resources.Reader.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Resources.ResourceManager.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Resources.Writer.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Extensions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Handles.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.InteropServices.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Numerics.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Serialization.Formatters.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Serialization.Json.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Serialization.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.Serialization.Xml.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Claims.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Algorithms.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Csp.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Encoding.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.X509Certificates.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Principal.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.SecureString.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encoding.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encoding.Extensions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.RegularExpressions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Overlapped.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Tasks.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Tasks.Parallel.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Thread.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.ThreadPool.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Timer.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ValueTuple.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.ReaderWriter.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XDocument.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XmlDocument.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XmlSerializer.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XPath.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Xml.XPath.XDocument.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\AutoMapper.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Castle.Core.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Fluent.Infrastructure.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authorization.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Cors.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Localization.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Routing.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyModel.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Localization.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.ObjectPool.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Options.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Primitives.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.WebEncoders.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Net.Http.Headers.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Google.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Win32.Registry.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.Bson.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Owin.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Buffers.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.Immutable.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.ComponentModel.Annotations.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Memory.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Numerics.Vectors.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.Metadata.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.AccessControl.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Cryptography.Xml.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Permissions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Security.Principal.Windows.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encoding.CodePages.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encodings.Web.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Tasks.Extensions.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\WebActivatorEx.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\WebGrease.dll
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\AutoMapper.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Castle.Core.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\EntityFramework.SqlServer.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authorization.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Cors.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Localization.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Routing.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.pdb
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.CSharp.pdb
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Localization.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.ObjectPool.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Options.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.Primitives.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Extensions.WebEncoders.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Net.Http.Headers.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Google.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.Bson.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Buffers.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Collections.Immutable.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Diagnostics.DiagnosticSource.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Memory.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Numerics.Vectors.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Reflection.Metadata.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Text.Encodings.Web.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Threading.Tasks.Extensions.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Helpers.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Mvc.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Optimization.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.Razor.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\System.Web.WebPages.Razor.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Newtonsoft.Json.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Antlr3.Runtime.pdb
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnTest\New folder - Copy\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\ThuongMaiDienTu.csproj.CopyComplete

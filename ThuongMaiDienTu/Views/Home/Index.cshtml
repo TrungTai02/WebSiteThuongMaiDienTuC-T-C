@@ -1,0 +1,41 @@
+﻿@model List<ThuongMaiDienTu.Models.EF.BaiDang>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<link href="~/Content/HomeIndex.css" rel="stylesheet" />
+<hr />
+<section class="section-content padding-y">
+    <div class="container">
+        <nav class="row">
+            @if (Model != null && Model.Any())
+            {
+                foreach (var item in Model)
+                {
+                    if (item.IDKiemDuyet == 2)
+                    {
+                        <div class="col-md-3">
+                            <div class="card card-category" onclick="window.location.href='@Url.Action("ChiTiet", "Home", new { id = item.IDBaiDang })';">
+                                <div class="img-wrap">
+                                    @if (item.HinhAnhBaiDangs != null && item.HinhAnhBaiDangs.Any())
+                                    {
+                                        <img src="~/Content/Images/@item.HinhAnhBaiDangs.FirstOrDefault().DuongDanHinhAnh" alt="Hình ảnh" />
+                                    }
+                                </div>
+                                <div class="card-body">
+                                    <a href="@Url.Action("ChiTiet", "Home", new { id = item.IDBaiDang })">@item.ChuDe</a>
+                                </div>
+                                <div class="heart-icon" onclick="addToFavorites(@item.IDBaiDang)">
+                                    &#x2665; <!-- Ký hiệu trái tim -->
+                                </div>
+                            </div>
+                        </div> <!-- col.// -->
+                    }
+                }
+            }
+        </nav> <!-- row.// -->
+    </div> <!-- container .//  -->
+
+
+</section>

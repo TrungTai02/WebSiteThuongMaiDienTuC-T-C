@@ -1,0 +1,12 @@
+﻿@model IEnumerable<ThuongMaiDienTu.Models.EF.DanhMuc>
+
+<ul>
+    <li><a href="@Url.Action("Index","Home")">Home</a></li>
+    @foreach (var danhMuc in Model)
+    {
+        <li>
+            <a href="@Url.Action("HienThiBaiDangTheoDanhMuc", "Home", new { idDanhMuc = danhMuc.IDDanhMuc })">@danhMuc.TenDanhMuc</a>
+        </li>
+    }
+</ul>
+

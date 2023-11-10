@@ -1,0 +1,217 @@
+﻿@using ThuongMaiDienTu.DungChung;
+
+@{
+    ViewBag.Title = "Nap Xu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nạp Xu</title>
+    <style>
+
+        .conversion-table {
+            width: 300px;
+            margin: auto; /* Căn giữa bảng */
+            border-collapse: collapse;
+            text-align: center;
+            flex: 1;
+            margin-bottom: 30px;
+            margin-top: 50px;
+        }
+
+            .conversion-table th, .conversion-table td {
+                border: 1px solid #ccc;
+                padding: 8px;
+            }
+
+            .conversion-table th {
+                background-color: #f2f2f2;
+            }
+
+            .conversion-table tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+        .payment-method img {
+            max-width: 300px;
+            max-height: 300px;
+            margin: 10px;
+        }
+
+        #Soluongxu {
+            width: 60px;
+            padding: 5px;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 9999;
+            background-color: rgba(255, 255, 255, 0.7); /* Đặt màu nền trong suốt */
+            width: 300px;
+            height: 100px;
+            text-align: center;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <table class="conversion-table">
+        <tr>
+            <th>Xu</th>
+            <th>Đồng</th>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>10,000đ</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>20,000đ</td>
+        </tr>
+        <tr>
+            <td>50</td>
+            <td>50,000đ</td>
+        </tr>
+        <tr>
+            <td>100</td>
+            <td>100,000đ</td>
+        </tr>
+        <tr>
+            <td>200</td>
+            <td>200,000đ</td>
+        </tr>
+        <tr>
+            <td>500</td>
+            <td>500,000đ</td>
+        </tr>
+        <tr>
+            <td>1000</td>
+            <td>1,000,000đ</td>
+        </tr>
+    </table>
+    @{ var userInfo = Session[Code_Func.User_Session] as UserLogin;
+        int xu = userInfo.SoLuongXu;
+    }
+    <div>
+        <h3> Xu hiện có : @xu</h3>
+    </div>
+
+    <form id="xuPaymentForm">
+        <label for="Soluongxu">Số lượng Xu: </label>
+        <input type="number" id="Soluongxu" name="Soluongxu" min="0" required>
+        <button id="showPaymentDetails" type="button">Nạp Xu</button>
+    </form>
+
+    <div id="overlay" class="overlay">
+        <div id="paymentDetails" class="modal">
+            <p> Số tiền bạn cần thanh toán: <span id="paymentAmount"></span> VNĐ</p>
+            <div>
+                <button id="confirmPayment">Xác nhận</button>
+                <button id="cancelPayment">Hủy</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $("#showPaymentDetails").click(function () {
+            // Lấy giá trị số lượng Xu từ input
+            var soluongxu = parseInt($("#Soluongxu").val());
+
+            // Kiểm tra nếu số Xu là số âm
+            if (soluongxu < 0) {
+                alert("Số Xu không hợp lệ. Vui lòng nhập số không âm.");
+            } else {
+                // Tính số tiền cần thanh toán (ví dụ: 1000 đồng cho mỗi Xu)
+                var paymentAmount = soluongxu * 1000;
+
+                // Hiển thị số tiền cần thanh toán trong bảng thông báo
+                $("#paymentAmount").text(paymentAmount);
+
+                // Hiển thị overlay và bảng thông báo
+                $("#overlay").show();
+                $("#paymentDetails").show();
+
+                // Ẩn bảng thông báo và overlay khi nhấn nút "Hủy"
+                $("#cancelPayment").click(function () {
+                    $("#overlay").hide();
+                    $("#paymentDetails").hide();
+                });
+            }
+        });
+
+
+
+        $("#confirmPayment").click(function () {
+            var soluongxu = parseInt($("#Soluongxu").val());
+
+            // Gửi yêu cầu cập nhật dữ liệu xu đến máy chủ
+            $.ajax({
+                type: "POST",
+                url: "/Giaodich/CapNhatXu",
+                data: { soluongxu: soluongxu },
+                success: function (response) {
+                    if (response.success) {
+                        // Cập nhật thành công, có thể hiển thị thông báo hoặc thực hiện các tác vụ khác
+                        $("#overlay").hide();
+                        location.reload();
+                        $("#paymentDetails").hide();
+                        updateXuCount(); // Gọi hàm cập nhật số xu trong giao diện
+                    } else {
+                        // Cập nhật thất bại, hiển thị thông báo lỗi
+                        alert("Cập nhật thất bại. " + response.message);
+                    }
+                },
+                error: function () {
+                    // Xử lý lỗi kết nối hoặc lỗi máy chủ
+                    alert("Lỗi kết nối máy chủ.");
+                }
+            });
+        });
+
+        function updateXuCount() {
+            // Gọi controller để lấy số Xu hiện có từ session và cơ sở dữ liệu
+            $.ajax({
+                type: "GET",
+                url: "/Giaodich/GetXuFromSession",  // Thay đổi thành URL tương ứng
+                success: function (response) {
+                    if (response.success) {
+                        // Cập nhật số Xu trong giao diện
+                        var xuCount = response.xuCount;
+                        $("#xu").text("Xu hiện có: " + xuCount);
+                        alert("Nạp xu thành công")
+                    } else {
+                        alert("Lỗi khi lấy số Xu.");
+                    }
+                },
+                error: function () {
+                    alert("Lỗi kết nối máy chủ.");
+                }
+            });
+        }
+
+    </script>  
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+﻿@model List<ThuongMaiDienTu.Models.EF.DanhMuc>
+@{
+    ViewBag.Title = "DanhMuc";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Danh mục nè</h1>
+@if (Model != null && Model.Any())
+{
+    foreach (var item in Model)
+    {
+          <a href="@Url.Action("HienThiBaiDangTheoDanhMuc", "Home", new { IDDanhMuc = item.IDDanhMuc })">@item.TenDanhMuc</a>
+    }
+}

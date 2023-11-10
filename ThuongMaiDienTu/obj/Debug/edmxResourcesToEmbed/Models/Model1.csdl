@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ThuongMaiDientuModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ThuongMaiDientuEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ChucNangs" EntityType="ThuongMaiDientuModel.ChucNang" />
+    <EntitySet Name="NhanViens" EntityType="ThuongMaiDientuModel.NhanVien" />
+    <EntitySet Name="PhanQuyens" EntityType="ThuongMaiDientuModel.PhanQuyen" />
+    <AssociationSet Name="FK_PhanQuyen_ChucNang" Association="ThuongMaiDientuModel.FK_PhanQuyen_ChucNang">
+      <End Role="ChucNang" EntitySet="ChucNangs" />
+      <End Role="PhanQuyen" EntitySet="PhanQuyens" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhanQuyen_NhanVien" Association="ThuongMaiDientuModel.FK_PhanQuyen_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="PhanQuyen" EntitySet="PhanQuyens" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ChucNang">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenChucNang" Type="String" MaxLength="500" FixedLength="true" Unicode="true" />
+    <Property Name="MaChucNang" Type="String" MaxLength="500" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="PhanQuyens" Relationship="ThuongMaiDientuModel.FK_PhanQuyen_ChucNang" FromRole="ChucNang" ToRole="PhanQuyen" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="IDNhanVien" />
+    </Key>
+    <Property Name="IDNhanVien" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="TenNhanVien" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="NgaySinh" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ChucVu" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="PhanQuyens" Relationship="ThuongMaiDientuModel.FK_PhanQuyen_NhanVien" FromRole="NhanVien" ToRole="PhanQuyen" />
+  </EntityType>
+  <EntityType Name="PhanQuyen">
+    <Key>
+      <PropertyRef Name="idNhanVien" />
+      <PropertyRef Name="idChucNang" />
+    </Key>
+    <Property Name="idNhanVien" Type="Int32" Nullable="false" />
+    <Property Name="idChucNang" Type="Int32" Nullable="false" />
+    <Property Name="GhiChu" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="ChucNang" Relationship="ThuongMaiDientuModel.FK_PhanQuyen_ChucNang" FromRole="PhanQuyen" ToRole="ChucNang" />
+    <NavigationProperty Name="NhanVien" Relationship="ThuongMaiDientuModel.FK_PhanQuyen_NhanVien" FromRole="PhanQuyen" ToRole="NhanVien" />
+  </EntityType>
+  <Association Name="FK_PhanQuyen_ChucNang">
+    <End Type="ThuongMaiDientuModel.ChucNang" Role="ChucNang" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="ThuongMaiDientuModel.PhanQuyen" Role="PhanQuyen" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ChucNang">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="PhanQuyen">
+        <PropertyRef Name="idChucNang" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhanQuyen_NhanVien">
+    <End Type="ThuongMaiDientuModel.NhanVien" Role="NhanVien" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="ThuongMaiDientuModel.PhanQuyen" Role="PhanQuyen" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="IDNhanVien" />
+      </Principal>
+      <Dependent Role="PhanQuyen">
+        <PropertyRef Name="idNhanVien" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

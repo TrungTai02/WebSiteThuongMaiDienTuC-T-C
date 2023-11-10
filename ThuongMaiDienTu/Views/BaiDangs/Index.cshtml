@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ThuongMaiDienTu.Models.EF.BaiDang>
+
+@{
+    ViewBag.Title = "Quảng Lý tin tức";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/QuanLyTin.css" rel="stylesheet" />
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@foreach (var item in Model)
+{
+    <div class="post-frame">
+        <div class="post-header">
+            <span class="post-user">@Html.DisplayFor(modelItem => item.User.HoVaTen)</span>
+        </div>
+        <div class="post-content">
+            <p>Chủ đề: @Html.DisplayFor(modelItem => item.ChuDe)</p>
+            <p>Ngày đăng @Html.DisplayFor(modelItem => item.NgayDang)</p>
+            <p>Ngày hết hạn @Html.DisplayFor(modelItem => item.NgayHetHan)</p>
+            <p>Trạng thái: @Html.DisplayFor(modelItem => item.TrangThai1.TenTrangthai)</p>
+            <p>Trạng thái @Html.DisplayFor(modelItem => item.TrangThai)</p>
+            <p>Danh mục @Html.DisplayFor(modelItem => item.DanhMuc.TenDanhMuc)</p>
+            <div class="post-description">@Html.DisplayFor(modelItem => item.NoiDung)</div>
+
+            @if (item.HinhAnhBaiDangs != null && item.HinhAnhBaiDangs.Any())
+            {
+                <div class="post-images">
+                    @foreach (var image in item.HinhAnhBaiDangs)
+                    {
+                        <img class="post-image" src="~/Content/Images/@image.DuongDanHinhAnh" />
+                    }
+                </div>
+            }
+            @using (Html.BeginForm("Delete", "BaiDangs", new { id = item.IDBaiDang }, FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                <input type="submit" value="Xóa" class="btn btn-danger" />
+            }
+
+
+        </div>
+    </div>
+}
+

@@ -1,0 +1,172 @@
+﻿@using ThuongMaiDienTu.DungChung;
+@using ThuongMaiDienTu.Models.EF
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <link href="~/Content/Layout.css" rel="stylesheet" />
+    <link href="~/Content/fonts/fontawesome/css/all.css" rel="stylesheet" />
+    <link href="~/Areas/Admin/Content/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top" id="myNavbar">
+        <div class="container">
+
+            <div class="navbar-collapse collapse">
+
+                @{
+                    // Lấy thông tin đăng nhập từ biến User_Session
+                    var userInfo = Session[Code_Func.User_Session] as UserLogin;
+
+                    if (userInfo != null)
+                    {
+                        int chucVu = userInfo.ChucVu; // Truy cập thuộc tính "ChucVu" từ đối tượng thông tin đăng nhập
+                        if (chucVu == 1)
+                        {
+                            <ul class="nav navbar-nav">
+                                <li>
+                                    <!-- Thêm logo -->
+                                    <a href="@Url.Action("Index", "Home")">
+                                        <img src="~/Content/Images/logo.jpg" alt="Logo" class="logo" width="40" height="40" />
+                                    </a>
+                                </li>
+                                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                                @*<li>@Html.ActionLink("About", "About", "Home")</li>
+                                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>*@
+                                <li>@Html.ActionLink("Trang quản Trị", "Index", "Admin/HomeAdmin")</li>
+                                <li class="search-bar navbar-collapse ">
+                                    @using (Html.BeginForm("TimKiemTheoChuDe", "Home", FormMethod.Get))
+                                    {
+                                        <input type="text" placeholder="Tìm kiếm sản phẩm..." name="tukhoa" />
+                                        <input type="submit" name="timkiem" value="Tìm kiếm" />
+                                    }
+                                </li>
+                            </ul>
+                            <ul class=" nav navbar-nav navbar-right">
+                                <li>@Html.ActionLink("Đăng xuất", "Logout", "Login")</li>
+
+                            </ul>
+
+                        }
+                        else
+                        {
+                            <ul class="nav navbar-nav">
+                                <li>
+                                    <!-- Thêm logo -->
+                                    <a href="@Url.Action("Index", "Home")">
+                                        <img src="~/Content/Images/logo.jpg" alt="Logo" class="logo" width="40" height="40" />
+
+                                    </a>
+                                </li>
+                                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                                @*<li>@Html.ActionLink("About", "About", "Home")</li>
+                                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>*@
+                                <li class="search-bar navbar-collapse ">
+                                    @using (Html.BeginForm("TimKiemTheoChuDe", "Home", FormMethod.Get))
+                                    {
+                                        <input type="text" placeholder="Tìm kiếm sản phẩm..." name="tukhoa" />
+                                        <input type="submit" name="timkiem" value="Tìm kiếm" />
+                                    }
+                                </li>
+                            </ul>
+                            <ul class=" nav navbar-nav navbar-right">
+                                <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                        @{
+                                            // Lấy thông tin đăng nhập từ biến User_Session
+                                            string ten = userInfo.HovaTen; // Truy cập thuộc tính "User" từ đối tượng thông tin đăng nhập
+                                            int xu = userInfo.SoLuongXu;
+                                        }
+                                        @ten
+
+                                        <i class="fa fa-user fa-fw"></i>
+                                        <b class="caret"></b>
+                                    </a>
+                                    <ul class="dropdown-menu dropdown-user ">
+                                        <li>
+                                            <a href="~/BaiDangs/Index"><i class="fa fa-user fa-fw"></i> Quản lý tin</a>
+                                        </li>
+                                        <li>
+                                            <a href="~/BaiDangs/Create" class="widget-view">
+                                                <div class="icon-area"></div>
+                                                <i class="fa fa-edit"></i>
+                                                Đăng Tin
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("Napxu", "GiaoDich")"><i class="fa fa-money"> @xu Xu</i></a>
+                                        </li>
+                                        <li>
+                                            
+                                            <a href="@Url.Action("ChatBox", "ChatBox")" class="widget-view">
+                                                <i class="fa fa-comment"></i>
+                                                Chat
+                                            </a>
+<li>
+                                            <a href="@Url.Action("Logout", "Login")" class="widget-view">
+                                                <i class="fa fa-sign-out fa-fw"></i>
+                                                Đăng Xuất
+                                            </a>
+                                        </li>
+                                </li>
+                            </ul>
+                            </li>
+                            </ul>
+
+                        }
+                    }
+                    else
+                    {
+                        <ul class="nav navbar-nav">
+                            <li>
+                                <!-- Thêm logo -->
+                                <a href="@Url.Action("Index", "Home")">
+                                    <img src="~/Content/Images/logo.jpg" alt="Logo" class="logo" width="40" height="40" />
+                                </a>
+                            </li>
+                            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+
+                            <li class="search-bar navbar-collapse ">
+                                @using (Html.BeginForm("TimKiemTheoChuDe", "Home", FormMethod.Get))
+                                {
+                                    <input type="text" placeholder="Tìm kiếm sản phẩm..." name="tukhoa" />
+                                    <input type="submit" name="timkiem" value="Tìm kiếm" />
+                                }
+                            </li>
+                        </ul>
+                        <ul class=" nav navbar-nav navbar-right">
+                            <li>@Html.ActionLink("Đăng Nhập", "Index", "Login")</li>
+                        </ul>
+                    }
+
+                }
+
+            </div>
+        </div>
+    </div>
+    <div class="container body-content row">
+
+        <div class="col-md-2" style="border: 2px solid black; margin: 20px; margin-top: 50px; ">
+            <h4 class="danhmuc">Danh mục</h4>
+            <div id="menu">
+                @Html.Action("DanhMuc", "Home")
+            </div>
+
+        </div>
+
+        <div class="col-md-9">
+            @* phần này dùng để hiện thị các nội dung của các controller *@
+            @RenderBody()
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

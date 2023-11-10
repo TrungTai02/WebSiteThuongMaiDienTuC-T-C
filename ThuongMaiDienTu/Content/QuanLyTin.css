@@ -1,0 +1,41 @@
+﻿body {
+}
+.post-frame {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post-user {
+    font-weight: bold;
+}
+
+.post-topic {
+    background-color: #007bff;
+    color: black;
+    padding: 3px 6px;
+    border-radius: 3px;
+}
+
+.post-content {
+    margin-top: 10px;
+}
+
+.post-description {
+    font-size: 16px;
+}
+
+.post-image {
+    max-width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}

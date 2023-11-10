@@ -1,0 +1,124 @@
+﻿@model ThuongMaiDienTu.Models.EF.User
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#UserName").blur(function () {
+                var userName = $(this).val();
+                $.ajax({
+                    url: "/Register/CheckUserNameInDB", // Đường dẫn đến phương thức kiểm tra trùng UserName
+                    type: "POST",
+                    data: { UserName: userName },
+                    success: function (data) {
+                        if (data) {
+                            // UserName không bị trùng
+                            $("#checkUserName").text("");
+                        } else {
+                            // UserName đã tồn tại, hiển thị thông báo "đã tồn tại"
+                            $("#checkUserName").text("UserName đã tồn tại");
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+    <link href="~/Content/Register.css" rel="stylesheet" />
+</head>
+
+<body>
+    @using (Html.BeginForm("Create", "Register", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+    <div class="Create-container">
+        <h2>Create Account</h2>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.UserName, new { id = "UserName", htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                <span id="checkUserName" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.PasswordFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.HoVaTen, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.HoVaTen, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.HoVaTen, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SDT, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.SDT, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SDT, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style="width: 37%;">
+            @Html.LabelFor(model => model.NgaySinh, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.EditorFor(model => model.NgaySinh, new { htmlAttributes = new { @class = "form-control", type = "date" } })
+                @Html.ValidationMessageFor(model => model.NgaySinh, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DiaChi, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.DiaChi, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DiaChi, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <script>
+            // Đặt giá trị của trường ChucVu thành 1 khi nút "Register" được nhấn.
+            document.addEventListener('DOMContentLoaded', function () {
+                var registerButton = document.querySelector('button[type="submit"]');
+                if (registerButton) {
+                    registerButton.addEventListener('click', function () {
+                        document.getElementById('ChucVu').value = '0';
+                    });
+                }
+            });
+        </script>
+
+        <div class="col-md-offset-2 col-md-10">
+            <button type="submit" class="btn btn-default">Register</button>
+        </div>
+
+    </div>
+
+
+    }
+</body>
+</html>
